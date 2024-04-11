@@ -5,7 +5,6 @@ Feature: Login Functionality for OpenCart E-commerce Website
   So that I can access my account-related features and manage my orders
 
   Background:
-  Given
     Given I am on the OpenCart login page
 
   Scenario: Successful login with valid credentials
